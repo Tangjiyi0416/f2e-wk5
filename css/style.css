@@ -63,6 +63,16 @@ header {
     background-color: #edf2c5;
 }
 
+.top-media-bar-btn:hover {
+    height: 25px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #edf2c5;
+    border-radius: 3px;
+    border: solid 1px #778a50;
+    background-color: #778a50;
+}
+
 
 /*#endregion*/
 
