@@ -71,6 +71,7 @@ header {
     border-radius: 3px;
     border: solid 1px #778a50;
     background-color: #778a50;
+    cursor: pointer;
 }
 
 
@@ -94,6 +95,14 @@ nav {
     font-weight: 900;
     line-height: 44px;
     color: #edf2c5;
+    text-decoration: none;
+}
+
+.nav-item:hover {
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 44px;
+    color: #d6dbaa;
     text-decoration: none;
 }
 
